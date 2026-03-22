@@ -81,7 +81,7 @@ Then: routing diagram — tasks flow into classifier → split to Haiku (most), 
 **VISUAL:** URL prominent center. Twitter/X handle. Download count if available.
 
 **VO:**
-*"Link in bio. Free download. No email required."*
+*"stop-the-bleed.vercel.app — free download. No email required."*
 
 *"If you're running OpenClaw and your bill is higher than $30 a month — this will fix it."*
 
@@ -129,7 +129,7 @@ const config = {
   beforeAmount: 427.83,      // Test different "before" amounts
   afterAmount: 54.20,        // Test different "after" amounts  
   savingsPercent: 87,        // Calculated
-  ctaUrl: "stopthebleed.ai", // Or whatever domain
+  ctaUrl: "stop-the-bleed.vercel.app",
   handle: "@MaxAgent_AI",
   voiceId: "ElevenLabs_voice_id_here", // Authoritative male voice
 }
@@ -164,7 +164,7 @@ found the 3 reasons why. fixed them in 30 minutes.
 
 bill is now $54
 
-free guide + skill file: [link]
+free guide + skill file: stop-the-bleed.vercel.app
 ```
 
 No hashtags. No emojis. Direct. That's what works in this community.
